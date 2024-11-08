@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+geopandas
+mapclassify
+matplotlib
+folium
+fiona
+pyproj
+shapely
+google.colab
